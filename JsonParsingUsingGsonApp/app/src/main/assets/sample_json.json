@@ -1,0 +1,80 @@
+{
+  "page": 1,
+  "per_page": 3,
+  "total": 12,
+  "total_pages": 4,
+  "userdata": [
+    {
+      "id": 1,
+      "name": "prasad",
+      "phone": "9860572172",
+      "bday":
+      {
+        "day":14,
+        "month":8,
+        "year":1993
+      },
+      "address":
+      {
+        "city":"warkute",
+        "tel":"karmala",
+        "dist":"solapur",
+        "pin":413251
+      }
+    },
+    {
+      "id": 2,
+      "name": "sandeep",
+      "phone": "9998072122",
+      "bday":
+      {
+        "day":14,
+        "month":8,
+        "year":1993
+      },
+      "address":
+      {
+        "city":"karanje",
+        "tel":"karmala",
+        "dist":"solapur",
+        "pin":413210
+      }
+    },
+    {
+      "id": 3,
+      "name": "ashwini",
+      "phone": "9166659898",
+      "bday":
+      {
+        "day":14,
+        "month":8,
+        "year":1993
+      },
+      "address":
+      {
+        "city":"morgaon",
+        "tel":"baramati",
+        "dist":"pune",
+        "pin":413100
+      }
+    },
+    {
+      "id": 4,
+      "name": "chetan",
+      "phone": "9900765432",
+      "bday":
+      {
+        "day":14,
+        "month":8,
+        "year":1993
+      },
+      "address":
+      {
+        "city":"nandwal",
+        "tel":"koregaon",
+        "dist":"satara",
+        "pin":412231
+      }
+    }
+  ]
+}
