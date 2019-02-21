@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomDBTestApp</string>
+
+    <string-array name="query_concepts">
+        <item>Get all the users</item>
+        <item>Get perticular user</item>
+        <item>Get user name LIKE</item>
+    </string-array>
+
+</resources>
