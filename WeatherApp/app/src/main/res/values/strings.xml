@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string-array name="cities_array">
+        <item>England</item>
+        <item>UK</item>
+        <item>Scotland</item>
+        <item>Wales</item>
+    </string-array>
+
+    <string-array name="data_category_array">
+        <item>Tmax</item>
+        <item>Tmin</item>
+        <item>Rainfall</item>
+    </string-array>
+
+</resources>
