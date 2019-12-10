@@ -2,7 +2,7 @@ package com.sample.weatherapp;
 
 import java.io.Serializable;
 
-// POJO
+// POJO class holding whether data 
 
 public class WeatherData implements Serializable {
 
