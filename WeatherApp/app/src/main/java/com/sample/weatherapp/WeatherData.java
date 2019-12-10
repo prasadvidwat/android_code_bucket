@@ -2,6 +2,8 @@ package com.sample.weatherapp;
 
 import java.io.Serializable;
 
+// POJO
+
 public class WeatherData implements Serializable {
 
     private int month;
